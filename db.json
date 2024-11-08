@@ -1,0 +1,62 @@
+{
+  "allVideos": [
+    {
+      "id": "cea9",
+      "caption": "Nunakuzhi trailer",
+      "url": "https://i.ytimg.com/vi/Ek78m6BOGTQ/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/Ek78m6BOGTQ"
+    },
+    {
+      "id": "5fae",
+      "caption": "Leo Trailer",
+      "url": "https://etvbharatimages.akamaized.net/etvbharat/prod-images/05-10-2023/1200-675-19684988-368-19684988-1696511255648.jpg",
+      "link": "https://www.youtube.com/embed/Z6HUc_Yb_OI"
+    }
+  ],
+  "categories": [
+    {
+      "id": "932e",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "cf91",
+          "caption": "ARM movie Trailer",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZpBjkBj27aXbsKdwVssuOuJmT87vFqf7Vg&s",
+          "link": "https://www.youtube.com/embed/TWQjWLwY9ZE"
+        }
+      ]
+    },
+    {
+      "id": "d2bf",
+      "categoryName": "Tutorials",
+      "allVideos": [
+        {
+          "id": "f5d4",
+          "caption": "html tutorial",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX942EXA8s1B2EmXjrXSBrwm21xMshbKWCGw&s",
+          "link": "https://www.youtube.com/embed/qz0aGYrrlhU"
+        },
+        {
+          "id": "5c2c",
+          "caption": "css",
+          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20240701150349/CSS-Tutorial-copy.webp",
+          "link": "https://www.youtube.com/embed/OXGznpKZ_sA"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "b993",
+      "caption": "Leo Trailer",
+      "link": "https://www.youtube.com/embed/Z6HUc_Yb_OI",
+      "timeStamp": "9/6/2024, 12:55:52 PM GMT+5:30"
+    },
+    {
+      "id": "1e38",
+      "caption": "Leo Trailer",
+      "link": "https://www.youtube.com/embed/Z6HUc_Yb_OI",
+      "timeStamp": "9/11/2024, 11:45:54 AM GMT+5:30"
+    }
+  ]
+}
